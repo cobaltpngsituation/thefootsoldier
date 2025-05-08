@@ -28,3 +28,9 @@ $\text{\color{#0047ab}{Rick and Morty, Smiling Friends, Star Wars, The Wiggles (
 <p>
 $\text{\color{#0047ab}{﹙ Misc. ﹚}}$
 </p>
+<p>
+$\text{\color{#0047ab}{Canon x oc, casinocore, Chicken Smoothie, creepypastas, clowns, DC,}}$
+</p>
+<p>
+$\text{\color{#0047ab}{doing voice impressions, dragons *, drawing, Disney, Homestuck, jellyfish, Marvel, oc x oc, pirates, Pixar, SCP, urbex, zombies *}}$
+</p>
