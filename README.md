@@ -20,5 +20,11 @@ $\text{\color{#0047ab}{Pizza Tower *, Plants Vs. Zombies *, Pokémon, Poppy Play
 $\text{\color{#0047ab}{﹙ Media ﹚}}$
 </p>
 <p>
-$\text{\color{#0047ab}{Blue's Clues, Care Bears, Child's Play (excluding 2019), Ghost Adventures, Indiana Jones, Monsters Inc. and University, Rick and Morty,}}$
+$\text{\color{#0047ab}{Blue's Clues, Care Bears, Child's Play (excluding 2019), Ghost Adventures, Indiana Jones, Monsters Inc. and University,}}$
+</p>
+<p>
+$\text{\color{#0047ab}{Rick and Morty, Smiling Friends, Star Wars, The Wiggles (w/the og cast), Toy Story}}$
+</p>
+<p>
+$\text{\color{#0047ab}{﹙ Misc. ﹚}}$
 </p>
