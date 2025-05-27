@@ -8,30 +8,50 @@ $\text{\color{#0047ab}{* = hyperfixation}}$
 $\text{\color{#0047ab}{﹙ Games ﹚}}$
 </p>
 <p>
-$\text{\color{#0047ab}{Amnesia: Justine, Amnesia: The Dark Descent, Animal Crossing, Bugsnax, Club Penguin, Faith: The Unholy Trinity,}}$
+$\text{\color{#0047ab}{Amnesia, Animal Crossing, Bugsnax, Club Penguin,}}$
 </p>
 <p>
-$\text{\color{#0047ab}{Five Night's At Freddy's, Fortnite, Garry’s Mod, Garten Of BanBan, GTA V, Mario, Minecraft, Mortal Kombat, Payday 2}}$
+$\text{\color{#0047ab}{Dandy's World, Five Night's At Freddy's, Fortnite,}}$
 </p>
 <p>
-$\text{\color{#0047ab}{and 3, Pizza Tower *, Plants Vs. Zombies *, Pokémon, Poppy Playtime, Rayman *, Roblox,}}$
-$\text{\color{#0047ab}{Rocket League, Sly *, Terraria + more I can't remember}}$
+$\text{\color{#0047ab}{Garry's Mod, Garten Of Banban, GTA V, Mario,}}$
+</p>
+<p>
+$\text{\color{#0047ab}{Mortal Kombat, Payday, Pizza Tower,}}$
+</p>
+<p>
+$\text{\color{#0047ab}{Plants Vs. Zombies *, Pokémon *, Poppy Playtime,}}$
+</p>
+<p>
+$\text{\color{#0047ab}{Rayman *, Sly *, Terraria, + more I can't remember}}$
 </p>
 <p>
 $\text{\color{#0047ab}{﹙ Media ﹚}}$
 </p>
 <p>
-$\text{\color{#0047ab}{Blue's Clues, Care Bears, Child's Play (excluding 2019), Ghost Adventures, Indiana Jones, Monsters Inc. and University,}}$
+$\text{\color{#0047ab}{Blue's Clues, Care Bears *, Child's Play (excl. 2019),}}$
 </p>
 <p>
-$\text{\color{#0047ab}{Rick and Morty, Smiling Friends, Star Wars, The Wiggles (w/the og cast), Toy Story}}$
+$\text{\color{#0047ab}{Ghost Adventures, Indiana Jones, Rick And Morty,}}$
+</p>
+<p>
+$\text{\color{#0047ab}{Smiling Friends, The Wiggles (w/the og cast), Toy Story}}$
 </p>
 <p>
 $\text{\color{#0047ab}{﹙ Misc. ﹚}}$
 </p>
 <p>
-$\text{\color{#0047ab}{Canon x oc, casinocore, Chicken Smoothie, creepypastas, clowns, DC, doing voice impressions, dragons *, }}$
+$\text{\color{#0047ab}{Canon x oc, casinocore, Chicken Smoothie,}}$
 </p>
 <p>
-$\text{\color{#0047ab}{drawing, Disney, Homestuck, jellyfish, Marvel, oc x oc, pirates, Pixar, SCP, urbex, zombies *}}$
+$\text{\color{#0047ab}{dragons *, creepypastas, clowns, DC,}}$
+</p>
+<p>
+$\text{\color{#0047ab}{doing voice impressions, drawing, Disney, Homestuck,}}$
+</p>
+<p>
+$\text{\color{#0047ab}{jellyfish, Marvel, oc x oc, pirates,}}$
+</p>
+<p>
+$\text{\color{#0047ab}{Pixar, SCP, urbex, zombies *}}$
 </p>
