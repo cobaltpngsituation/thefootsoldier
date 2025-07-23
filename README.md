@@ -1,5 +1,6 @@
+<div align="center">
 <p>
--ˏˋ 🪖
+⠀ ˗ˏˋ 　ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ɪɴᴛᴇʀᴇsᴛs.ᴇxᴇ　ˎˊ˗
 </p>
 <p>
 ⓘ better viewed on desktop
@@ -39,4 +40,7 @@ doing voice impressions, drawing, Disney, Homestuck, jellyfish, Marvel, oc x oc,
 </p>
 <p>
 Pixar, SCP, urbex, zombies *
+</p>
+<p>
+˗ˏˋ　　ᴄʟᴏsɪɴɢ ɪɴᴛᴇʀᴇsᴛs.ᴇxᴇ　　ˎˊ˗
 </p>
