@@ -1,7 +1,5 @@
 <div align="center">
-
-🛈 better to view on desktop
-
+  
 ![](https://i.imgur.com/nuJZj8v.png)
 
 <ins>Games</ins>
