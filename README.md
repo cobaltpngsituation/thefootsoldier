@@ -1,8 +1,10 @@
 <div align="center">
-  
+
+### 🪖
+
 🛈 I am not in any of the following fandoms
 
-<ins>Games</ins>
+### <ins>Games</ins>
 
 Amnesia, Animal Crossing, Bugsnax, Club Penguin, Fallout 76, Five Night's At Freddy's, Fortnite,
 
@@ -12,13 +14,13 @@ Plants Vs. Zombies *, Pokémon *, Poppy Playtime, Rain World, Rayman *, Roblox, 
 
 Totally Accurate Battle Simulator, Zuma, + more I can't remember
 
-<ins>Media</ins>
+### <ins>Media</ins>
 
 Beavis and Butthead, Blue's Clues, Care Bears *, Child's Play (excl. 2019), Ghost Adventures, Indiana Jones, Rick and Morty,
 
 Shrek, Smiling Friends, The Brave Little Toaster *, The Wiggles (w/the og cast), Toy Story
 
-<ins>Misc.</ins>
+### <ins>Misc.</ins>
 
 Canon x oc, casinocore, Chicken Smoothie, dragons *, creepypastas, clowns, DC,
 
