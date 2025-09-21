@@ -4,7 +4,7 @@
 
 🛈 I am not in any of the following fandoms
 
-> ## <ins>Games</ins>
+## <ins>Games</ins>
 
 Amnesia, Animal Crossing, Buckshot Roulette, Bugsnax, Club Penguin, Enter The Gungeon, Fallout 76, Five Night's At Freddy's, Fortnite,
 
@@ -14,13 +14,13 @@ Plants Vs. Zombies *, Pokémon *, Poppy Playtime, Rain World, Rayman *, Risk of 
 
 The Sims 4, Totally Accurate Battle Simulator, WEBFISHING, Zuma, + more I can't remember
 
-> ### <ins>Media</ins>
+## <ins>Media</ins>
 
 Auromancy, Beavis and Butthead, Blue's Clues, Care Bears *, Child's Play (excl. 2019), Cold Ones, Cr1tiKaL, Fresh Cut Slim, Ghost Adventures, Indiana Jones, Markiplier,
 MrHalloweenJunkie, Poofesure, Pyrocynical, Rick and Morty, Shrek, Smiling Friends, SomeOrdinaryGamers, The Brave Little Toaster *, The Librarian, The Wiggles (w/the og cast), 
 Toy Story, WickedWiz
 
-> ## <ins>Music</ins>
+## <ins>Music</ins>
 
 BBNO$, Billie Eilish, Britney Spears, Bruno Mars, Cascada, Childish Gambino, Christina Aguilera, Daft Punk, David Guetta, Doja Cat,
 
@@ -30,7 +30,7 @@ Justin Timberlake, Katy Perry, KISS, Kylie Minogue, Lady Gaga, Linkin Park, Mits
 
 Selena Gomez, Sheryl Crow, The Killers, Tove Lo, TV Girl, Tyler, The Creator, The Weeknd, The Wiggles
 
-> ## <ins>Misc.</ins>
+## <ins>Misc.</ins>
 
 Canon x oc, casinocore, Chicken Smoothie, dragons *, creepypastas, clowns, DC,
 
