@@ -22,9 +22,12 @@ Toy Story, WickedWiz
 
 ### <ins>Music</ins>
 
-BBNO$, Billie Eilish, Britney Spears, Bruno Mars, Cascada, Childish Gambino, Christina Aguilera, Daft Punk, David Guetta, Doja Cat, 
+BBNO$, Billie Eilish, Britney Spears, Bruno Mars, Cascada, Childish Gambino, Christina Aguilera, Daft Punk, David Guetta, Doja Cat,
+
 Dua Lipa, Evanescence, Fall Out Boy, Fresh Cut Slim, G-Eazy, Gorillaz, Halsey, Jason Derulo, Jay Sean, Justin Bieber, 
+
 Justin Timberlake, Katy Perry, KISS, Kylie Minogue, Lady Gaga, Linkin Park, Mitski, Nessa Barrett, phonk music, Rihanna, 
+
 Selena Gomez, Sheryl Crow, The Killers, Tove Lo, TV Girl, Tyler, The Creator, The Weeknd, The Wiggles
 
 ### <ins>Misc.</ins>
