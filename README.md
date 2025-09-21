@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://i.imgur.com/nuJZj8v.png)
+🛈 I am not in any of the following fandoms
 
 <ins>Games</ins>
 
